@@ -28,6 +28,7 @@ Nonetheless, the influence of Aegis Inc. grew, leading to the rapid and radical 
 - Alani (ah-LAH-nee) : Young and cheerful child who carries on passionately the tradition of her ancestors. As the young leader of haven she will befriend the player, giving them quests related to the city's history
 - Rogue Aegis Employee : Rogue and underpaid young guy, employeyed at Aegis. Tired of being bossed around by the boss's right-hand pokemon, he will ask the player for some help.
 - Steely John: Eccentric director of the stadium, loves Electric-type pokemons
+- [kahuna] : Young and cheerful woman acting as the chief of Hao'nui, loves making references to Water-type pokemons.
 - Handyman
 - Trading Guy
 
